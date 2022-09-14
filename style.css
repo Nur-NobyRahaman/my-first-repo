@@ -1,0 +1,36 @@
+h2{
+    background-color: gray;
+}
+#form{
+    background-color: beige;
+}
+#First{
+    margin-left: 50px;
+
+}
+#Last{
+    margin-left: 50px;
+
+}
+#Birth{
+    margin-left: 50px;
+
+}
+#E-mail{
+    margin-left: 75px;
+
+}
+#Phone{
+    margin-left: 75px;
+
+}
+#Country{
+    margin-left: 60px;
+
+}
+#Mallling{
+   
+}
+#Mallling-Address{
+    display: flex;
+}

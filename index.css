@@ -1,0 +1,62 @@
+#first-div{
+    display: flex;
+
+}
+
+#lavel-div{
+    
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#input-div input,textarea{
+    display: block;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    margin-left: 15px;
+    font-size: 20px;
+    
+}
+#form{
+    width: 80%;
+    background-color: DarkGray;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+h2{
+    
+    background-color: DimGray;
+    width: 80%;
+    margin-left: 50px;
+    padding: 10px 20px;
+    
+
+}
+#span{
+    margin-left: 50px;
+}
+
+
+#label-First, #label-Last,#label-Birth,#label-E-mail,#label-Phone,#label-Country,#label-Company,#label-Signature{
+    display: block;
+    
+    height: 48px;
+    
+}
+#label-Mallling{
+    display: block;
+   
+    height: 150px;
+    
+}
+#label-Comment{
+    display: block;
+    
+    height: 130px;
+}
+#label-Current{
+    display: block;
+   
+    height: 50px;
+}
+
